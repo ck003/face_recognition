@@ -1,0 +1,7 @@
+config:
+  freesdk:
+    app-id:
+    sdk-key:
+    thread-pool-size: 5
+  face-file-path: xxx\know_faces
+  lib-path: xxx\lib\WIN64
